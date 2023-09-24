@@ -1,0 +1,18 @@
+{
+  "name": "ottoman-basics",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "npx tsc && ts-node src/index.ts",
+    "build": "npx tsc"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^20.6.3",
+    "ottoman": "^2.3.4",
+    "typescript": "^5.2.2"
+  }
+}
